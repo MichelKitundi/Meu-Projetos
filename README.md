@@ -6,15 +6,25 @@
    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá (Pequenas paginas que no decorrenter do meu desenvolvimento , ficarão mais complexo.! </h2>
 </div>
 
-### Meus Projetos 🤓
+### Meus Projetos e e Desafios 🤓
+* [ Desafio 03 - 7daysOfCode-HTML-CSS ](#id03)
 * [ Home 02 - Login page ](#id02)
 * [ Home 01 - Digital page ](#id01)
 ##
 ##
 
+
+  ##    Desafio 03 - 7daysOfCode-HTML-CSS  <a name="id03"></a>
+ ###### Gostou então (CTRL+C) e (CTRL+V)  mude o tamano, cor, animação. 
+ ###### Projeto feito em Grid layout  e FlaxBox
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/72812066/161599483-a98859c0-414a-4027-8935-9e905f3aab5c.gif">
+</div>
+
   ###### Projeto todo em     html/css
   ###### Gostou então (CTRL+C) e (CTRL+V)  mude o tamano, cor, animação. >>>>>>   Heder com (Flex) Main (Grid Layout) 
-   * CÓDIGO FONTE   👉[ Meu código ](https://github.com/MichelKitundi/Meu-Projetos/blob/main/login-page2/page01.html)👈
+   * CÓDIGO FONTE   👉[ Meu código ](https://github.com/MichelKitundi/Meu-Projetos-Desafios/blob/main/projetos/7daysOfCode-HTML-CSS/index.html)👈
 
 ##   Home  02 - Login page <a name="id02"></a>
 <div align="center">
