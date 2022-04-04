@@ -1,0 +1,53 @@
+:root{
+  --fundo-botao: #8E2424;
+  --fundo-painel: #C31919;
+  --cor-principal: #101828;
+  --text-color: #667085;
+  --text-botao: #fff;
+}
+
+
+/*recette*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 4em;
+}
+.container__header--link {
+  display: flex;
+}
+
+.container__header--link > ul {
+  display: flex;
+  margin-left: 5em;
+}
+
+.botao {
+  margin-right: 5em;
+}
+.container__header--link .item__nav {
+  color: var(--text-color);
+  list-style: none;
+  padding: 1em;
+  margin-right: 1em;
+  cursor: pointer;
+}
+.botao__entra {
+  text-decoration: none;
+  color: var(--text-color);
+}
+ .botao__cadastra {
+   text-decoration: none;
+   background: var(--fundo-painel);
+   padding: 10px 20px;
+   border-radius: 5px;
+   color: var(--text-botao);
+   font-weight: bold;
+   margin-left: 2em;
+ }

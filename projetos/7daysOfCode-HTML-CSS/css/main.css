@@ -1,0 +1,112 @@
+:root{
+  --fundo-botao: #8E2424;
+  --fundo-painel: #C31919;
+  --cor-principal: #101828;
+  --text-color: #667085;
+  --bordas: #EAECF0;
+  --fundo-funcionario: #F7F7F7;
+}
+
+.container__sobre {
+  text-align: center;
+  padding: 2em;
+  margin-top: 2em;
+}
+.sobre__titulo {
+  font-size: 1em;
+  font-weight: bold;
+  color: var(--fundo-botao);
+}
+.sobre__sub {
+  font-size: 3.5em;
+}
+.sobre__texto {
+  font-size: 1.4em;
+  color: var(--text-color);
+}
+.container__info--grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2em;
+  width: 80%;
+  margin: 3em auto;
+}
+
+.info__item {
+  font-size: 4em;
+  color: var(--fundo-botao);
+}
+.info__titulo{
+  margin-bottom: 0;
+}
+.info__texto {
+    color: var(--text-color);
+}
+
+.container__vagas {
+  text-align: center;
+}
+.vagas__titulo {
+  margin-bottom: 0;
+}
+.vagas__bub {
+  margin: 0.2em;
+  font-size: 3em;
+}
+.vagas__img {
+  width: 90%;
+}
+
+
+
+.vagas {
+  width: 60%;
+  margin: 5em auto;
+}
+.container__item--vagas {
+  width: 90%;
+  margin-bottom: 1em;
+  padding-left: 1em;
+  border: 1px solid var(--bordas);
+  border-radius: 0.5em;
+}
+.vagas__funcao {
+  font-size: 0.9em;
+  color: var(--text-color);
+}
+
+
+
+.depo__funcionario--veja {
+  color: var(--fundo-painel);
+}
+.depo__funcionario--declaracao {
+  font-size: 2.5em;
+}
+.depo__funcionario {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em;
+  text-align: center;
+  border-radius: 1em;
+  background: var(--fundo-funcionario);
+}
+.perfil__funcionario--foto {
+  width: 9%;
+  border: 3px solid black;
+  border-radius: 100px;
+}
+.nome__funcionario {
+  margin-bottom: 0;
+}
+.funcao__funcionario {
+  margin: 0;
+}
+
+
+
+
+
+
+
+

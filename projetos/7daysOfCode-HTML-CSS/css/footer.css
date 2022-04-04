@@ -1,0 +1,42 @@
+:root{
+  --fundo-botao: #8E2424;
+  --fundo-painel: #C31919;
+  --cor-principal: #101828;
+  --text-color: #667085;
+  --text-botao: #fff;
+  --fundo-caixa: #F9FAFB;
+  --fundo-funcionario: #F7F7F7;
+}
+
+.rodape {
+  background: var(--fundo-funcionario);
+  text-align: center;
+  margin-top: 4em ;
+  padding: 2em 0 8em 0;
+}
+.rodape__titulo {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+.rodape__testo {
+  color: var(--text-color);
+  margin-bottom: 0.5em;
+  font-size: 1.2em;
+}
+.rodape__input {
+  border-radius: 0.5em;
+  border: 1px solid var(--text-color);
+  color: var(--text-color);
+  padding: 0.5em 5em 0.5em 1em;
+  margin: 2em 1em 0 0;
+}
+.rodape__button {
+  background: var(--fundo-botao);
+  border: none;
+  border-radius: 0.5em;
+  color: var(--text-botao);
+  padding: 0.5em 2em;
+  font-size: 0.9em;
+  cursor: pointer;
+}
